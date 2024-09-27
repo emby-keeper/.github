@@ -29,4 +29,6 @@ Embykeeper 是一个 Emby 影视服务器签到保号的自动执行工具, 它�
 
 项目支持 Python 运行、Docker 部署或云部署, 且完全开源, 不存储任何密钥或隐私信息, 经两年的开发已经在稳定和安全性方面有一定保证.
 
-具体详情请访问: [https://github.com/emby-keeper/embykeeper](https://github.com/emby-keeper/embykeeper)
+具体详情请访问: [https://emby-keeper.github.io/](https://emby-keeper.github.io/)
+
+Github: [https://github.com/emby-keeper/embykeeper](https://github.com/emby-keeper/embykeeper)
