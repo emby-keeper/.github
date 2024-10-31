@@ -31,4 +31,4 @@ Embykeeper 是一个 Emby 影视服务器签到保号的自动执行工具, 它�
 
 具体详情请访问: [https://emby-keeper.github.io/](https://emby-keeper.github.io/)
 
-Github: [https://github.com/emby-keeper/embykeeper](https://github.com/emby-keeper/embykeeper)
+Github: [https://github.com/emby-keeper/emby-keeper](https://github.com/emby-keeper/emby-keeper)
